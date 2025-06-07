@@ -202,7 +202,7 @@ ASA = {
 		STATE_FLORIDA
 	}
 
-	ai_will_do = { always = yes }
+	ai_will_do = { always = no }
 }
 
 LOU = {
